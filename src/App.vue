@@ -1,5 +1,5 @@
 <template>
-  <h1>Hello Harsha</h1>
+  <h1>Hello Parthipan</h1>
   <button type="button">Click Me</button>
 </template>
 
